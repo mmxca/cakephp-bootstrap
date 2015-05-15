@@ -23,7 +23,7 @@
     	},
     "autoload": {
         "psr-4": {
-            "webroot\\": "webroot"
+            "webroot\\": "./vendor/mmxca/cakephp-bootstrap/webroot"
         }
     }
 
