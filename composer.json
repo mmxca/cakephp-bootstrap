@@ -1,5 +1,5 @@
 {
-	"name": 	"mmxca/cahephp-bootstrap",
+	"name": 	"mmxca/cakephp-bootstrap",
 	"version": 	"3.3.4",
 	"type": 	"cakephp-plugin",
 	"description": 	"Twitter Bootstrap 3 packaged as a CakePHP plugin.",
